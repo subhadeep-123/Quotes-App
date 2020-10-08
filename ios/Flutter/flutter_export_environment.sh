@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=D:\Softwares\flutter_windows_1.22.0-stable\flutter"
-export "FLUTTER_APPLICATION_PATH=C:\Users\SUBHADEEP\Desktop\Flutter Projects\Github\Quotes-App"
+export "FLUTTER_APPLICATION_PATH=C:\Users\SUBHADEEP\Desktop\Flutter Projects\QuotesApp"
 export "FLUTTER_TARGET=lib\main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "SYMROOT=${SOURCE_ROOT}/../build\ios"
